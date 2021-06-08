@@ -1,0 +1,7 @@
+data/
+model/
+*.out
+.ipynb_checkpoints/
+*.hdf5
+*.h5
+.vscode/
